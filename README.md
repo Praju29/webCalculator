@@ -21,13 +21,13 @@ These instructions will help you get a copy of the project up and running on you
 
 You can clone this repository using Git by running the following command:
 ```bash
-git clone https://github.com/yourusername/basic-calculator.git
+git clone https://github.com/Praju29/webCalculator.git
 ```
 
 ### Running the Calculator
 Navigate to the project folder:
 ```bash
-cd basic-calculator
+cd WebCalculator
 ```
 Open the one.html file in your web browser to use the calculator.
 
