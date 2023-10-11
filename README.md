@@ -38,9 +38,9 @@ JavaScript
 
 # Pictures
 
-<img width="271" alt="Screenshot 2023-10-11 190327" src="https://github.com/Praju29/webCalculator/assets/134161335/9b0a5ba8-bb65-40e8-8039-cc232b74b2e4">
+<img width="271" alt="Screenshot 2023-10-11 190327" src="https://github.com/Praju29/webCalculator/assets/134161335/9b0a5ba8-bb65-40e8-8039-cc232b74b2e4"> <br>
 
-<img width="307" alt="Screenshot 2023-10-11 190238" src="https://github.com/Praju29/webCalculator/assets/134161335/53cada41-43a5-49c4-b161-65583b5bf20e">
+<img width="307" alt="Screenshot 2023-10-11 190238" src="https://github.com/Praju29/webCalculator/assets/134161335/53cada41-43a5-49c4-b161-65583b5bf20e"> <br>
 
 <img width="280" alt="Screenshot 2023-10-11 190257" src="https://github.com/Praju29/webCalculator/assets/134161335/3ab8f5b5-db7c-41e8-a623-3bccffd0a555">
 
