@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="one.css" >
+    <script src="one.js"></script>
+</head>
+<body>
+    <div class="Outer">
+        <div class="calculator">
+            <input type="text" id="inputBox" readonly>      
+            <div class="buttons">
+                <button class="button" onclick="calValues('9')">9</button>
+                <button class="button" onclick="calValues('8')">8</button>
+                <button class="button" onclick="calValues('7')">7</button>
+                <button class="button" onclick="calValues('6')">6</button>
+                <button class="button" onclick="calValues('5')">5</button>
+                <button class="button" onclick="calValues('4')">4</button>
+                <button class="button" onclick="calValues('3')">3</button>
+                <button class="button" onclick="calValues('2')">2</button>
+                <button class="button" onclick="calValues('1')">1</button>
+                <button class="button" onclick="calValues('.')">.</button>
+                <button class="button" onclick="calValues('0')">0</button>
+                <button class="button" onclick="calculate()">=</button>
+            </div> 
+        </div>
+        <div class="calbuttons">
+            <button class="button2" onclick="clearInputBox()">AC</button>
+            <button class="button1" onclick="calValues('+')">+</button>
+            <button class="button1" onclick="calValues('-')">-</button>
+            <button class="button1" onclick="calValues('/')">/</button>
+            <button class="button1" onclick="calValues('x')">x</button>
+        </div>
+    </div>
+  
+</body>
+</html>
