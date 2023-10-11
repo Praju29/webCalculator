@@ -37,3 +37,6 @@ CSS
 JavaScript
 
 
+<img width="271" alt="Screenshot 2023-10-11 190327" src="https://github.com/Praju29/webCalculator/assets/134161335/9b0a5ba8-bb65-40e8-8039-cc232b74b2e4">
+
+
