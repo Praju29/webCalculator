@@ -27,7 +27,7 @@ git clone https://github.com/Praju29/webCalculator.git
 ### Running the Calculator
 Navigate to the project folder:
 ```bash
-cd WebCalculator
+cd webCalculator
 ```
 Open the one.html file in your web browser to use the calculator.
 
